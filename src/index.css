@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-6: 100px;
+  --breakpoint-xs: 400px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-beforeTablet: 800px;
+  --breakpoint-laptop: 1024px;
+  --breakpoint-desktop: 1280px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
