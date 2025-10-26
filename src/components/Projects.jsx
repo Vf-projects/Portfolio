@@ -49,7 +49,7 @@ const Projects = () => {
 
           <div className='justify-center flex flex-row items-center'>
             <a 
-              href=""
+              href="https://github.com/Vf-projects/Profile-Card"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -62,7 +62,7 @@ const Projects = () => {
             </a>
 
             <a 
-              href=""
+              href="https://profile-card-ebon.vercel.app/"
               target='_blank'
               rel='noopener noreferrer'
             >
