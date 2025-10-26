@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import ScreenshotOne from './image/Screenshot (31).png'
+import ScreenshotTwo from './image/Screenshot (4).png'
 
 const Projects = () => {
   const scrollRef = useRef(null);
@@ -80,17 +81,17 @@ const Projects = () => {
           rounded-2xl shadow-md p-6
         '>
           <img 
-            src={ScreenshotOne} 
+            src={ScreenshotTwo}
             alt="" 
             className='rounded-lg'
           />
           <h1 className='text-2xl text-center mt-6'>
-            Profile Card
+            MOVIX APP
           </h1>
 
           <div className='justify-center flex flex-row items-center'>
             <a 
-              href=""
+              href="https://github.com/Vf-projects/Movix"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -103,7 +104,7 @@ const Projects = () => {
             </a>
 
             <a 
-              href=""
+              href="https://movix-delta-teal.vercel.app/"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -117,215 +118,6 @@ const Projects = () => {
           </div>
         </div>
         
-        <div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
-         text-black font-semibold hover:opacity-80
-          rounded-2xl shadow-md p-6
-        '>
-          <img 
-            src={ScreenshotOne} 
-            alt="" 
-            className='rounded-lg'
-          />
-          <h1 className='text-2xl text-center mt-6'>
-            Profile Card
-          </h1>
-
-          <div className='justify-center flex flex-row items-center'>
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer opacity-80
-                active:translate-0 mt-4
-              '>
-                Github
-              </button>
-            </a>
-
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
-                active:translate-0 ml-6 mt-4 opacity-80
-              '>
-                Live Demo
-              </button>
-            </a>
-          </div>
-        </div>
-        
-        <div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
-         text-black font-semibold hover:opacity-80
-          rounded-2xl shadow-md p-6
-        '>
-          <img 
-            src={ScreenshotOne} 
-            alt="" 
-            className='rounded-lg'
-          />
-          <h1 className='text-2xl text-center mt-6'>
-            Profile Card
-          </h1>
-
-          <div className='justify-center flex flex-row items-center'>
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer opacity-80
-                active:translate-0 mt-4
-              '>
-                Github
-              </button>
-            </a>
-
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
-                active:translate-0 ml-6 mt-4 opacity-80
-              '>
-                Live Demo
-              </button>
-            </a>
-          </div>
-        </div>
-        
-        <div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
-         text-black font-semibold hover:opacity-80
-          rounded-2xl shadow-md p-6
-        '>
-          <img 
-            src={ScreenshotOne} 
-            alt="" 
-            className='rounded-lg'
-          />
-          <h1 className='text-2xl text-center mt-6'>
-            Profile Card
-          </h1>
-
-          <div className='justify-center flex flex-row items-center'>
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer opacity-80
-                active:translate-0 mt-4
-              '>
-                Github
-              </button>
-            </a>
-
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
-                active:translate-0 ml-6 mt-4 opacity-80
-              '>
-                Live Demo
-              </button>
-            </a>
-          </div>
-        </div>
-        
-        <div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
-         text-black font-semibold hover:opacity-80
-          rounded-2xl shadow-md p-6
-        '>
-          <img 
-            src={ScreenshotOne} 
-            alt="" 
-            className='rounded-lg'
-          />
-          <h1 className='text-2xl text-center mt-6'>
-            Profile Card
-          </h1>
-
-          <div className='justify-center flex flex-row items-center'>
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer opacity-80
-                active:translate-0 mt-4
-              '>
-                Github
-              </button>
-            </a>
-
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
-                active:translate-0 ml-6 mt-4 opacity-80
-              '>
-                Live Demo
-              </button>
-            </a>
-          </div>
-        </div>
-        
-        <div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
-         text-black font-semibold hover:opacity-80
-          rounded-2xl shadow-md p-6
-        '>
-          <img 
-            src={ScreenshotOne} 
-            alt="" 
-            className='rounded-lg'
-          />
-          <h1 className='text-2xl text-center mt-6'>
-            Profile Card
-          </h1>
-
-          <div className='justify-center flex flex-row items-center'>
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer opacity-80
-                active:translate-0 mt-4
-              '>
-                Github
-              </button>
-            </a>
-
-            <a 
-              href=""
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='font-bold border-[1px] border-solid border-gray-400 p-2 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
-                active:translate-0 ml-6 mt-4 opacity-80
-              '>
-                Live Demo
-              </button>
-            </a>
-          </div>
-        </div>
       </section>
     </div>
   )
