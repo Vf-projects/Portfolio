@@ -25,8 +25,8 @@ const Reviews = () => {
   return (
     <div>
 
-      <section id='reviews' className='mt-[80px] border-t-[1px] border-t-solid border-t-gray-200 mb-6 flex 
-        flex-row justify-center bg-gray-200 p-2 rounded-lg shadow-lg
+      <section id='reviews' className='mt-[80px] border-t-[1px] border-t-solid border-t-gray-200 -mb-20 flex 
+        flex-row justify-center bg-gray-200 p-2 rounded-lg shadow-lg -ml-20 -mr-20
       '>
         
         <form
@@ -68,7 +68,7 @@ const Reviews = () => {
           <button 
             className='font-bold border-[2px] border-solid border-gray-400 p-3 rounded-4xl
               transition-all ease-in-out duration-500 hover:translate-y-1.5 cursor-pointer
-              active:translate-0'
+              active:translate-0 mb-10'
             type="submit"
           >
             Send Feedback
