@@ -24,6 +24,10 @@ const Experience = () => {
               1+ Years
             </p>
             <ul className='text-xl opacity-60 mb-2 list-none text-left'>
+              <li className='mb-2'>➕ HTML5</li>
+              <li className='mb-2'>➕ CSS3</li>
+              <li className='mb-2'>➕ Javascript</li>
+              <li className='mb-2'>➕ React Js</li>
               <li className='mb-2'>➕ Responsiveness</li>
               <li className='mb-2'>➕ Form Validations</li>
               <li className='mb-2'>➕ Dealing with Endpoints and Api</li>
