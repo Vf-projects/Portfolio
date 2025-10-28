@@ -3,6 +3,7 @@ import ScreenshotOne from './image/Screenshot (31).png'
 import ScreenshotTwo from './image/Screenshot (4).png'
 import ScreenshotThree from './image/Screenshot (5).png'
 import ScreenshotFour from './image/Screenshot (8).png'
+import ScreenshotFive from './image/Screenshot (9).png'
 
 const Projects = () => {
   const scrollRef = useRef(null);
@@ -41,17 +42,17 @@ const Projects = () => {
           rounded-2xl shadow-md p-6
         '>
           <img 
-            src={ScreenshotOne} 
+            src={ScreenshotFive} 
             alt="" 
             className='rounded-lg'
           />
           <h1 className='text-2xl text-center mt-6'>
-            Profile Card
+            Digital Bank
           </h1>
 
           <div className='justify-center flex flex-row items-center'>
             <a 
-              href="https://github.com/Vf-projects/Profile-Card"
+              href="https://github.com/Vf-projects/Digital-Bank"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -64,7 +65,7 @@ const Projects = () => {
             </a>
 
             <a 
-              href="https://profile-card-ebon.vercel.app/"
+              href="https://digital-bank-chi.vercel.app/"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -160,22 +161,24 @@ const Projects = () => {
               </button>
             </a>
           </div>
-        </div><div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
+        </div>
+
+        <div className='mb-6 ml-4 mt-[60px] flex-shrink-3 min-w-[400px] border-[1px] border-solid border-gray-200
          text-black font-semibold hover:opacity-80
           rounded-2xl shadow-md p-6
         '>
           <img 
-            src={ScreenshotFour}
+            src={ScreenshotOne} 
             alt="" 
             className='rounded-lg'
           />
           <h1 className='text-2xl text-center mt-6'>
-            MOVIX REGISTER PAGE
+            Profile Card
           </h1>
 
           <div className='justify-center flex flex-row items-center'>
             <a 
-              href="https://github.com/Vf-projects/Movix-Dashboard/tree/main/REGISTER"
+              href="https://github.com/Vf-projects/Profile-Card"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -188,7 +191,7 @@ const Projects = () => {
             </a>
 
             <a 
-              href="https://movix-register.vercel.app/"
+              href="https://profile-card-ebon.vercel.app/"
               target='_blank'
               rel='noopener noreferrer'
             >
