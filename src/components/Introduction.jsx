@@ -62,7 +62,7 @@ const Introduction = () => {
               target='_blank'
               rel='noopener noreferrer'
             >
-              <button className='font-bold border-[2px] border-solid border-black p-3 rounded-4xl
+              <button className='ml-4 font-bold border-[2px] border-solid border-black p-3 rounded-4xl
                 transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
                 active:translate-0
               '>
