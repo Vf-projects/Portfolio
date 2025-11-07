@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from 'react'
 import ScreenshotOne from './image/Screenshot (31).png'
 import ScreenshotTwo from './image/Screenshot (4).png'
 import ScreenshotThree from './image/Screenshot (5).png'
-import ScreenshotFour from './image/Screenshot (8).png'
 import ScreenshotFive from './image/Screenshot (9).png'
 
 const Projects = () => {

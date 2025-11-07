@@ -44,7 +44,8 @@ const Introduction = () => {
 
           <div>
             <a 
-              href=""
+              href="/app/public/VF-projects CV.pdf"
+              download="Omenihu_Victor_Frontend_Developer_CV.pdf"
               target='_blank'
               rel='noopener noreferrer'
             >
