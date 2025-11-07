@@ -45,7 +45,7 @@ const Introduction = () => {
           <div className='flex flex-col justify-between items-center xs:flex-row xs:justify-center'>
             <a 
               href="/app/public/VF-projects CV.pdf"
-              download="Omenihu_Victor_Frontend_Developer_CV.pdf"
+              download="VF-projects CV.pdf"
               target='_blank'
               rel='noopener noreferrer'
             >
