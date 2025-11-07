@@ -58,6 +58,19 @@ const Introduction = () => {
             </a>
             
             <a 
+              href="/app/public/VF-projects CV.pdf"
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <button className='font-bold border-[2px] border-solid border-black p-3 rounded-4xl
+                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
+                active:translate-0
+              '>
+                View CV
+              </button>
+            </a>
+            
+            <a 
               href="https://wa.me/2349115683829?text=Hi%20Victor,%20I%20saw%20your%20portfolio!"
               target='_blank'
               rel='noopener noreferrer'
