@@ -5,7 +5,7 @@ import Books from './image/images.svg'
 const Experience = () => {
   return (
     <div>
-      <section id='experience' className='mt-[160px] border-t-[1px] border-t-solid border-t-gray-200 mb-6
+      <section id='experience' className='mt-[230px] border-t-[1px] border-t-solid border-t-gray-200 mb-6
         beforeTablet:flex beforeTablet:flex-row justify-between items-center xs:mt-[80px]
       '>
         <div className='mt-[60px] beforeTablet:w-[50%] bg-gray-200 text-black 
