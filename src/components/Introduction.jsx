@@ -58,7 +58,7 @@ const Introduction = () => {
             </a>
             
             <a 
-              href="/app/public/VF-projects CV.pdf"
+              href="/VF-projects CV.pdf"
               target='_blank'
               rel='noopener noreferrer'
             >
