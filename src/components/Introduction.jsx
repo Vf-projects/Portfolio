@@ -37,32 +37,18 @@ const Introduction = () => {
             Frontend Developer
           </p>
 
-          <p className='mb-5 ml-4 mr-4 xs:ml-0 xs:mr-0'>
+          <p className='mb-5'>
             I'm a frontend developer who enjoys building modern, responsive web apps with React and Javascript,
             always aiming for great design and performance.
           </p>
 
-          <div className='flex flex-col justify-between items-center xs:flex-row xs:justify-center'>
-            <a 
-              href="/app/public/VF-projects CV.pdf"
-              download="VF-projects CV.pdf"
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              <button className='mb-4 font-bold border-[2px] border-solid border-black p-3 rounded-4xl
-                transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
-                active:translate-0
-              '>
-                Download CV
-              </button>
-            </a>
-            
+          <div>
             <a 
               href="/VF-projects CV.pdf"
               target='_blank'
               rel='noopener noreferrer'
             >
-              <button className='mb-4 xs:ml-4 font-bold border-[2px] border-solid border-black p-3 rounded-4xl
+              <button className='font-bold border-[2px] border-solid border-black p-3 rounded-4xl
                 transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
                 active:translate-0
               '>
@@ -75,7 +61,7 @@ const Introduction = () => {
               target='_blank'
               rel='noopener noreferrer'
             >
-              <button className='mb-4 xs:ml-4 font-bold bg-black text-white p-3 rounded-4xl
+              <button className='ml-4 font-bold bg-black text-white p-3 rounded-4xl
                 border-[2px] border-solid border-black cursor-pointer
                 transition-all ease-in-out duration-500 hover:-translate-y-1.5
                 active:translate-0
@@ -85,7 +71,7 @@ const Introduction = () => {
             </a>
           </div>
 
-          <div className='mt-2 xs:mt-4 flex flex-row justify-center'>
+          <div className='mt-4 flex flex-row justify-center'>
             <a 
               className='text-3xl cursor-pointer
                 transition-all ease-in-out duration-500 hover:-translate-y-1
