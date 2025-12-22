@@ -18,15 +18,7 @@ const Navbar = () => {
               EXPERIENCE
             </a>
           </li>
-          <li className='ml-8 text-lg opacity-70 hover:bg-black hover:text-white font-semibold hover:opacity-100
-           hover:p-1 hover:rounded-lg transition-all ease-in-out cursor-pointer duration-500 p-1
-          '>
-            <a 
-              href="#projects"
-            >
-              PROJECTS
-            </a>
-          </li>
+          
           <li className='ml-8 text-lg opacity-70 hover:bg-black hover:text-white font-semibold hover:opacity-100
            hover:p-1 hover:rounded-lg transition-all ease-in-out cursor-pointer duration-500 p-1
           '>
