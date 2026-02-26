@@ -44,7 +44,7 @@ const Introduction = () => {
 
           <div>
             <a 
-              href="/VF-projects CV.pdf"
+              href="/public/cover letter.pdf"
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -52,7 +52,7 @@ const Introduction = () => {
                 transition-all ease-in-out duration-500 hover:-translate-y-1.5 cursor-pointer
                 active:translate-0
               '>
-                View CV
+                Cover Letter
               </button>
             </a>
             
